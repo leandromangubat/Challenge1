@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* These are the class used for the header and their elements */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* This is the id for the large image displayed below the header */
 #hero {
     height: 1000px;
     width:100%;
@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* These are the class used for the benefits displayed on the right side of the page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -101,7 +101,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* These are the class used to display the business strategies on the left side of the page */
 .business-strat {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,7 +119,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* This is for the footer to display the credits at the bottom */
 .footer {
     padding: 30px;
     clear: both;
