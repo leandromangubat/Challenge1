@@ -10,4 +10,4 @@
  The right side of the page provides information on the benefits of applying the business strategies.
 
 ## Links
- The webpage is accessible by copying the following link to your search bar: https://leandromangubat.github.io/challenge1/
+https://leandromangubat.github.io/challenge1/
